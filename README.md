@@ -2,6 +2,8 @@
 
 ## End-to-End AI-Powered Decision Intelligence Optimization Platform
 
+#### Link to Streamlit Cloud Deployment: endtoend-decision-intelligence-copilot-llm-alijrizvi.streamlit.app
+
 As an **AI-Augmented Data Science + Machine Learning Analyst**, in this project, I:
 
 ### 🏆 GitHub / Engineering Workflow
