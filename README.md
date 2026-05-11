@@ -2,11 +2,42 @@
 
 ## End-to-End AI-Powered Decision Intelligence Optimization Platform
 
-#### Link to Streamlit Cloud Deployment: https://endtoend-decision-intelligence-copilot-llm-alijrizvi.streamlit.app/
+### Link to Streamlit Cloud Deployment: **https://endtoend-decision-intelligence-copilot-llm-alijrizvi.streamlit.app/**
 
 This is the start of my own version of entrepreneurship; like my own mini-SaaS product demo.
 
 ---
+
+## ⚠️ Deployment Note — LLM Integration
+
+This project was originally developed with local LLM integration using Ollama + Llama 3 for AI-powered business insights and decision support.
+
+However, Streamlit Community Cloud does not currently support running local Ollama servers or locally hosted LLM runtimes directly within deployed cloud applications. As a result, the public cloud deployment uses a lightweight simulated AI response module in place of the full local LLM integration.
+
+### Full Local Version Includes
+
+* Ollama-powered LLM integration
+* Context-aware AI business copilot
+* Natural-language analytical insights
+* Strategic recommendation generation
+
+### Cloud Deployment Includes
+
+* Fully interactive analytics dashboard
+* Forecasting and optimization modules
+* KPI monitoring and business intelligence visuals
+* Simulated AI insight generation for demonstration purposes
+
+To run the complete local LLM-enabled version:
+
+1. Install Ollama locally
+2. Pull a supported model (e.g., `llama3`)
+3. Run `ollama serve`
+4. Launch the Streamlit application locally via VS Code or terminal
+
+---
+
+## Project Overview
 
 As an **AI-Augmented Data Science + Machine Learning Analyst**, in this project, I:
 
