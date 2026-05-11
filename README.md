@@ -60,3 +60,28 @@ As an **AI-Augmented Data Science + Machine Learning Analyst**, in this project,
 * Built and version-controlled a modular AI analytics platform using Git, GitHub, and VS Code.
 * Managed project deployment workflows through Git-based source control and cloud-hosted application architecture.
 * Structured production-style repositories with modular utilities, reusable functions, and organized data pipelines.
+
+---
+
+## Key Techniques & Tools Used
+
+This was a project specializing in the retail/ecommerce domain of data science & machine learning.
+
+As such, prominent retail analytics-based techniques were utilized here including (and not limited to) **Market Basket Analysis**; **Customer Churn & Retention Modeling**; Business Metrics Analyses like **Customer Acquisition Cost (CAC), Retention Rate (%), Gross Margin (%)**, etc; and 
+
+Supplementing it all were advanced data science and machine learning methods in the form of **Gradient Boosting (XGBoost) Multiple Linear Regression**, **Bayesian Optimization**, **Monte Carlo Simulation**, and **Time Series Analysis & Forecasting** using **ARIMA** and **LSTM**.
+
+*Weaved together and implemented by a professional versed in a holistic-yet-meticulous approach to projects, boasting a mass-scale and diverse portfolio of projects showcasing cutting-edge knowledge and acumen in business intelligence, stakeholder management and communication, and AI-powered decision science and predictive modeling, this is tipped to be one of the prime or "grand" projects of my portfolio!*
+
+---
+
+## Highlights
+
+### Gross Profit ($) & Gross Margin (%) Line Plots Across Time
+<img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/d909e6a2-8adc-4b09-a9e4-5854d71ec483" />
+
+### Pareto-Based Revenue Modeling
+<img width="1315" height="624" alt="image" src="https://github.com/user-attachments/assets/a2aae5c6-c8fb-4c0b-9b9d-a02c3c745424" />
+
+### Market Basket Analysis
+<img width="991" height="590" alt="image" src="https://github.com/user-attachments/assets/5db92051-054a-4a50-bbc3-b56dc05f5105" />
