@@ -2,7 +2,11 @@
 
 ## End-to-End AI-Powered Decision Intelligence Optimization Platform
 
-#### Link to Streamlit Cloud Deployment: endtoend-decision-intelligence-copilot-llm-alijrizvi.streamlit.app
+#### Link to Streamlit Cloud Deployment: https://endtoend-decision-intelligence-copilot-llm-alijrizvi.streamlit.app/
+
+This is the start of my own version of entrepreneurship; like my own mini-SaaS product demo.
+
+---
 
 As an **AI-Augmented Data Science + Machine Learning Analyst**, in this project, I:
 
