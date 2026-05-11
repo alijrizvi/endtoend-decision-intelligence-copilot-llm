@@ -67,7 +67,7 @@ As an **AI-Augmented Data Science + Machine Learning Analyst**, in this project,
 
 This was a project specializing in the retail/ecommerce domain of data science & machine learning.
 
-As such, prominent retail analytics-based techniques were utilized here including (and not limited to) **Market Basket Analysis**; **Customer Churn & Retention Modeling**; Business Metrics Analyses like **Customer Acquisition Cost (CAC), Retention Rate (%), Gross Margin (%)**, etc; and 
+As such, prominent retail analytics-based techniques were utilized here including (and not limited to) **Market Basket Analysis**; **Customer Churn & Retention Modeling**; **Proxy-Engineering and Analysis of core Business Metrics like Customer Acquisition Cost (CAC), Lifetime Value (LTV), Retention Rate (%), Gross Margin (%)**, etc; and **Recency-Frequency-Monetary (RFM) Segmentation, Visualization, and Analysis**.
 
 Supplementing it all were advanced data science and machine learning methods in the form of **Gradient Boosting (XGBoost) Multiple Linear Regression**, **Bayesian Optimization**, **Monte Carlo Simulation**, and **Time Series Analysis & Forecasting** using **ARIMA** and **LSTM**.
 
