@@ -1,5 +1,20 @@
+def ask_llm(user_question,
+            revenue,
+            profit,
+            retention):
 
+    return f"""
+    Strategic Insight:
 
+    Revenue currently stands at
+    ${revenue:,.0f} with Retention
+    at {retention:.0%}.
+
+    Recommendation:
+    Continue prioritizing customer
+    retention and lifecycle optimization
+    to maximize long-term profitability.
+    """
 
 # This upcoming Code will be Archived as Streamlit Cloud cannot install local-only packages like Ollama. The code is preserved here for reference and potential future use in environments that support Ollama.
 
