@@ -51,7 +51,7 @@ As an **AI-Augmented Data Science + Machine Learning Analyst**, in this project,
 * Engineered a multi-page AI-powered analytics platform for forecasting, optimization, and executive decision support.
 * Built dynamic KPI dashboards integrating forecasting outputs, simulation modeling, and customer analytics.
 
-* ### 🏆 AI / LLM Integration
+### 🏆 (Copilot) AI / LLM Integration
 * Integrated a locally hosted LLM (Ollama + Llama 3) into a business intelligence application for AI-generated strategic recommendations.
 * Designed a context-grounded AI copilot capable of translating analytical outputs into business insights and operational recommendations.
 * Applied prompt engineering techniques to improve LLM interpretability and decision-support relevance.
