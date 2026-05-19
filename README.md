@@ -2,7 +2,13 @@
 
 ## End-to-End AI-Powered Decision Intelligence Optimization Platform
 
+### Link to Project Article: **https://medium.com/ai-in-plain-english/ai-powered-retail-analytics-an-end-to-end-decision-intelligence-copilot-17133fef04fd**
+
 ### Link to Streamlit Cloud Deployment: **https://endtoend-decision-intelligence-copilot-llm-alijrizvi.streamlit.app/**
+
+---
+
+#### Reflections
 
 This is the start of my own version of entrepreneurship; like my own mini-SaaS product demo.
 
